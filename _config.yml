@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            MongoGIS
+tagline:          'Using NoSQL For Big Geo-Spatial Data By MongoGIS'
+description:      'MongoGIS is a spatial database extender for MongoDB document database.'
+url:              http://www.mongogis.org
+
+author:
+  name:           'geosky'
+  url:            https://twitter.com/geosky
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/mongogis/mongodb-gdal-driver
