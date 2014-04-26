@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            MongoGIS
-tagline:          'Using NoSQL For Big Geo-Spatial Data By MongoGIS'
+tagline:          'Giving MongoDB the Way to Play with the GIS Community'
 description:      'MongoGIS is a spatial database extender for MongoDB document database.'
 url:              http://www.mongogis.org
 
@@ -15,7 +15,7 @@ author:
   name:           'geosky'
   url:            https://twitter.com/geosky
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          0.0.1

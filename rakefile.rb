@@ -6,7 +6,7 @@ CONFIG = {
 
 desc "Launch preview environment"
 task :preview do
-  sh "jekyll serve -w"
+  sh "jekyll serve -w --port 8081"
 end # task :preview
 
 desc "Begin a new post in #{CONFIG['posts']}"
