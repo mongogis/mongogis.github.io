@@ -1,3 +1,3 @@
-This is mongogis office web.
+This is mongogis official website.
 
 Thanks.
