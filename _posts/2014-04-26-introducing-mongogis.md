@@ -5,7 +5,7 @@ title: MongoGIS
 
 ## Background
 
-The GIS, Geographic Information System, industry is booming, especially with the continued reliance on online maps, the rise of location-aware mobile devices, and the wide-spreading spatial sensors. GIS tech can be one of the key players in the mobile internet, big data, and the internet of things, and shall be an essential tool for the next generation of the global IT industry.
+The GIS, Geographic Information System, industry is booming, especially with the continued growing reliance on online maps, the rise of location-aware mobile devices, and the wide-spreading spatial sensors. GIS tech can be one of the key players in the mobile internet, big data, and the internet of things, and shall be an essential infrastructure for the next generation of the global IT industry.
 
 
 Yet, the GIS community seems not prepared for this oppertunity. One of the tough challenges is, that, in the era of big data, as lots of geo-spatial data keep pouring in, GIS communities have no off-the-shelf solutions to manage all these growing volume of spatial data. Relational spatial databases were the leader in this field for decades, whose shortcomings have been well discussed in the context of NoSQL technology. 
