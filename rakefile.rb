@@ -9,7 +9,7 @@ task :preview do
   sh "jekyll serve -w --port 8081"
 end # task :preview
 
-desc "Begin a new post in #{CONFIG['posts'] rake mytaks post=fdsk}"
+desc "Begin a new post in {CONFIG['posts'] rake mytaks post=fdsk}"
 task :post do
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
   title = ENV["title"] || "new-post"
